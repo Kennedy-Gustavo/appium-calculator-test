@@ -1,6 +1,9 @@
 # Teste de Calculadora com Appium
 Teste automatizado para somar 2 + 2 no aplicativo de calculadora do Android usando Appium.
 
+# Autor
+Kennedy Gustavo de Oliveira
+
 ## Pré-requisitos
 - Node.js
 - Java JDK
