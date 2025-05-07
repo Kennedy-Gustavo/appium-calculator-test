@@ -5,9 +5,10 @@ Teste automatizado para somar 2 + 2 no aplicativo de calculadora do Android usan
 Kennedy Gustavo de Oliveira
 
 ## Pré-requisitos
+- Linux
 - Node.js
 - Java JDK
-- Android SDK (`/home/kennedy/Android/Sdk`)
+- Android SDK
 - Appium
 - Python com ambiente virtual
 
